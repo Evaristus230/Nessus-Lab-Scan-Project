@@ -30,7 +30,4 @@ See `/docs`, `/evidence`, and `/tools` for detailed artifacts.
 - Metasploitable 2 & 3 (Targets)
 - Windows 10 (Endpoint)
 
-## 📈 Next Steps
-- Automate scan scheduling with cron + Python
-- Integrate findings into a SIEM (e.g., Splunk Free)
-- Develop a dashboard for vulnerability trends
+
