@@ -15,8 +15,7 @@ Using Tenable Nessus, I identified 123 vulnerabilities across 5 hosts, ranging f
 - Auth failures indicate misconfigured services or weak credentials.
 - Remediation plan includes patching, service hardening, and firewall rules.
 
-## 📁 Repository Structure
-See `/docs`, `/evidence`, and `/tools` for detailed artifacts.
+
 
 ## 🔍 Methodology
 1. Configured Nessus policy: “Basic Network Scan”
